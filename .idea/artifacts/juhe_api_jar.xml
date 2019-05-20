@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="juhe-api:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/juhe_api_jar</output-path>
+    <root id="archive" name="juhe-api.jar">
+      <element id="module-output" name="juhe-api" />
+      <element id="extracted-dir" path="D:/apache-maven-3.5.4/local_repositry/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.5.4/local_repositry/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.5.4/local_repositry/commons-codec/commons-codec/1.2/commons-codec-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.5.4/local_repositry/com/alibaba/fastjson/1.2.56/fastjson-1.2.56.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
